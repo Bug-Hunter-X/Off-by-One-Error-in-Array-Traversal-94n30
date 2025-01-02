@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java when iterating through an array. The `Bug.java` file contains the buggy code, while `BugSolution.java` provides the corrected version.  The error arises from incorrectly handling the loop boundary condition, leading to an attempt to access an array element outside its bounds.
